@@ -1,6 +1,11 @@
 ---
 applications:
+<<<<<<< Upstream, based on beb594dc38faaac6d30e1e35d304600e226d6b75
 - name: webchatbot
+=======
+- name: testondevops innovation day
+  memory: 1024M
+>>>>>>> 7da62d5 Updated runtime name and Conversation Workspace ID.
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
