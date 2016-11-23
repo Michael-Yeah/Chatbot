@@ -1,6 +1,6 @@
 ---
 applications:
-- name: "your unique name for chatbot"
+- name: your unique name for chatbot
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
